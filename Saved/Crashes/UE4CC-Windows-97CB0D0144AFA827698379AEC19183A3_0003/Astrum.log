@@ -1,0 +1,1444 @@
+﻿Log file open, 02/22/20 22:19:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Astrum
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.072911
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin SocketIOClient
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Engine.ini]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Engine.ini]
+[2020.02.22-22.19.30:391][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Engine.ini]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Engine.ini]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.22-22.19.30:391][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Engine.ini]
+[2020.02.22-22.19.30:391][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Engine.ini]
+[2020.02.22-22.19.30:398][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.19.30:398][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.22-22.19.30:398][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.22-22.19.30:398][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.19.30:398][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.22-22.19.30:398][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.19.30:398][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.22-22.19.30:398][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.22-22.19.30:398][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.22-22.19.30:398][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.22-22.19.30:398][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.22-22.19.30:399][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.22-22.19.30:399][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.22-22.19.30:399][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.22-22.19.30:403][  0]LogHAL: Display: Platform has ~ 16 GB [17015312384 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.22-22.19.30:403][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.22-22.19.30:403][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.22-22.19.30:403][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.22-22.19.30:404][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.22-22.19.30:404][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.22-22.19.30:404][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.22-22.19.30:404][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.22-22.19.30:404][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.22-22.19.30:404][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.19.30:404][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.22-22.19.30:404][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.22-22.19.30:404][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.22-22.19.30:404][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.22-22.19.30:404][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.22-22.19.30:404][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Config/Windows/Engine.ini]
+[2020.02.22-22.19.30:404][  0]LogInit: Computer: DEEPTHOUGHTV3
+[2020.02.22-22.19.30:404][  0]LogInit: User: William
+[2020.02.22-22.19.30:404][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.02.22-22.19.30:404][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.22-22.19.30:404][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.02.22-22.19.30:404][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.22-22.19.30:404][  0]LogMemory: Process Physical Memory: 102.30 MB used, 102.31 MB peak
+[2020.02.22-22.19.30:404][  0]LogMemory: Process Virtual Memory: 91.34 MB used, 91.34 MB peak
+[2020.02.22-22.19.30:404][  0]LogMemory: Physical Memory: 7367.04 MB used,  8860.03 MB free, 16227.07 MB total
+[2020.02.22-22.19.30:404][  0]LogMemory: Virtual Memory: 4671.07 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.02.22-22.19.30:406][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.22-22.19.30:431][  0]LogInit: Using OS detected language (en-US).
+[2020.02.22-22.19.30:431][  0]LogInit: Using OS detected locale (en-GB).
+[2020.02.22-22.19.30:432][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.22-22.19.30:594][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.22-22.19.30:635][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.22-22.19.30:635][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.22-22.19.30:798][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.22-22.19.30:798][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.22-22.19.30:864][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (Feature Level 11_0)
+[2020.02.22-22.19.30:864][  0]LogD3D11RHI:       8082/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.22-22.19.30:902][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.02.22-22.19.30:902][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.02.22-22.19.30:905][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.22-22.19.30:905][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.22-22.19.30:905][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.22-22.19.30:912][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.22-22.19.30:913][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.22-22.19.30:913][  0]LogWindows: EnumDisplayDevices:
+[2020.02.22-22.19.30:913][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2020.02.22-22.19.30:913][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.22-22.19.30:914][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.22-22.19.30:914][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:1)
+[2020.02.22-22.19.30:914][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:1 D:1)
+[2020.02.22-22.19.30:915][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2020.02.22-22.19.30:915][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2020.02.22-22.19.30:915][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.02.22-22.19.30:915][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 with Max-Q Design
+[2020.02.22-22.19.30:915][  0]LogD3D11RHI:   Driver Version: 441.87 (internal:26.21.14.4187, unified:441.87)
+[2020.02.22-22.19.30:915][  0]LogD3D11RHI:      Driver Date: 12-24-2019
+[2020.02.22-22.19.30:915][  0]LogRHI: Texture pool is 5657 MB (70% of 8082 MB)
+[2020.02.22-22.19.30:958][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.22-22.19.30:969][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.22-22.19.31:337][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.22-22.19.31:346][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.22-22.19.31:355][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.22-22.19.31:366][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.22-22.19.31:379][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.22-22.19.31:388][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.22-22.19.31:397][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.22-22.19.31:406][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.22-22.19.31:413][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.22-22.19.31:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.22-22.19.31:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.22-22.19.31:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.22-22.19.31:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.22-22.19.31:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.22-22.19.31:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.22-22.19.31:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.22-22.19.31:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.22-22.19.31:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.22-22.19.31:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.22-22.19.31:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.22-22.19.31:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.22-22.19.31:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.22-22.19.31:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.22-22.19.31:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.22-22.19.31:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.22-22.19.31:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.22-22.19.31:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.22-22.19.31:451][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.22-22.19.31:470][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.22-22.19.31:470][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.22-22.19.31:484][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.22-22.19.31:484][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.22-22.19.31:491][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.22-22.19.31:498][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.22-22.19.31:505][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.22-22.19.31:517][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.22-22.19.31:544][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.22-22.19.31:544][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.22-22.19.31:544][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.22-22.19.31:553][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.22-22.19.31:606][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Intermediate/Shaders/WorkingDirectory/13944/).
+[2020.02.22-22.19.31:606][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/William/AppData/Local/Temp/UnrealShaderWorkingDir/E592B17B40DC90232A8B5798640F7223/'.
+[2020.02.22-22.19.31:609][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.22-22.19.31:609][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.22-22.19.31:609][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.22-22.19.32:177][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.22-22.19.32:232][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/William/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.22-22.19.32:232][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/William/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.02.22-22.19.32:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.22-22.19.32:232][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.22-22.19.32:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.22-22.19.32:232][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.22-22.19.32:241][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.22-22.19.32:241][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.22-22.19.32:241][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.22-22.19.32:243][  0]LogDerivedDataCache: Using Local data cache path C:/Users/William/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.22-22.19.32:243][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.22-22.19.32:243][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.22-22.19.32:261][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.22-22.19.32:263][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.22-22.19.32:263][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.22-22.19.32:320][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.02.22-22.19.32:580][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.22-22.19.32:741][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.22-22.19.32:741][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.22-22.19.32:741][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.22-22.19.32:741][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.22-22.19.32:741][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.22-22.19.32:752][  0]LogNetVersion: Astrum 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3837256149)
+[2020.02.22-22.19.33:255][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.118992 seconds
+[2020.02.22-22.19.33:263][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.02.22-22.19.33:263][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.02.22-22.19.33:263][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.22-22.19.34:122][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.22-22.19.34:125][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.22-22.19.34:226][  0]SourceControl: Source control is disabled
+[2020.02.22-22.19.34:226][  0]SourceControl: Source control is disabled
+[2020.02.22-22.19.34:228][  0]SourceControl: Source control is disabled
+[2020.02.22-22.19.34:229][  0]SourceControl: Source control is disabled
+[2020.02.22-22.19.34:319][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.22-22.19.34:653][  0]LogOcInput: OculusInput pre-init called
+[2020.02.22-22.19.34:661][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.22-22.19.34:661][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.22-22.19.34:756][  0]LogEngine: Initializing Engine...
+[2020.02.22-22.19.34:757][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.22-22.19.34:758][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.22-22.19.34:951][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.22-22.19.34:966][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.22-22.19.35:070][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.22-22.19.35:090][  0]LogInit: FAudioDevice initialized.
+[2020.02.22-22.19.35:090][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.22-22.19.35:138][  0]LogDerivedDataCache: Saved boot cache 0.05s 73MB C:/Users/William/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.22-22.19.35:142][  0]LogInit: Texture streaming: Enabled
+[2020.02.22-22.19.35:162][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.22-22.19.35:162][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.22-22.19.35:164][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.22-22.19.35:238][  0]LogInit: Transaction tracking system initialized
+[2020.02.22-22.19.35:272][  0]BlueprintLog: New page: Editor Load
+[2020.02.22-22.19.35:364][  0]LocalizationService: Localization service is disabled
+[2020.02.22-22.19.35:621][  0]LogFileCache: Scanning file cache for directory 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/' took 0.01s
+[2020.02.22-22.19.35:621][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.22-22.19.35:621][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.22-22.19.35:797][  0]SourceControl: Source control is disabled
+[2020.02.22-22.19.35:797][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.22-22.19.35:798][  0]LightingResults: New page: Lighting Build
+[2020.02.22-22.19.35:800][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.22-22.19.35:801][  0]MapCheck: New page: Map Check
+[2020.02.22-22.19.35:801][  0]LightingResults: New page: Lighting Build
+[2020.02.22-22.19.35:829][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.02.22-22.19.35:896][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.02.22-22.19.35:902][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.22-22.19.35:930][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.02.22-22.19.35:930][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.22-22.19.35:930][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.197ms to complete.
+[2020.02.22-22.19.35:930][  0]LogFileHelpers: Loading map 'Template_Default' took 0.133
+[2020.02.22-22.19.36:062][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-22.19.36:069][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-22.19.36:074][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-22.19.36:081][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-22.19.36:091][  0]LogCollectionManager: Loaded 0 collections in 0.005194 seconds
+[2020.02.22-22.19.36:098][  0]LogFileCache: Scanning file cache for directory 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Collections/' took 0.00s
+[2020.02.22-22.19.36:098][  0]LogFileCache: Scanning file cache for directory 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Developers/William/Collections/' took 0.00s
+[2020.02.22-22.19.36:098][  0]LogFileCache: Scanning file cache for directory 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Collections/' took 0.00s
+[2020.02.22-22.19.36:098][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.02.22-22.19.36:105][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2876 classes and 692 folders.
+[2020.02.22-22.19.36:113][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.22-22.19.36:250][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.22-22.19.36:257][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.02.22-22.19.36:331][  0]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.22-22.19.36:333][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.22-22.19.36:341][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.22-22.19.36:342][  0]LogLoad: (Engine Initialization) Total time: 7.34 seconds
+[2020.02.22-22.19.36:342][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.22-22.19.36:405][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.22-22.19.36:409][  0]LogSlate: Took 0.000863 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.22-22.19.36:460][  0]LogRenderer: Reallocating scene render targets to support 972x412 Format 10 NumSamples 1 (Frame:1).
+[2020.02.22-22.19.36:460][  0]LogSlate: Took 0.001109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.22-22.19.36:489][  1]LogAssetRegistry: Asset discovery search completed in 4.1704 seconds
+[2020.02.22-22.19.36:494][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000011 seconds (found 0 objects)
+[2020.02.22-22.19.36:494][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000110 seconds (updated 0 objects)
+[2020.02.22-22.19.37:381][ 53]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.22-22.19.40:214][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-22.19.44:256][458]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/AstrumGameMode.AstrumGameMode
+[2020.02.22-22.19.44:475][458]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.02.22-22.19.45:203][458]LogSlate: Took 0.000992 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.22-22.19.45:307][459]LogSlate: Took 0.001055 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.22-22.20.03:075][503]LogUObjectGlobals: Warning: Failed to find object 'Class None.SIOJJsonObject'
+[2020.02.22-22.20.03:075][503]LogUObjectGlobals: Warning: Failed to find object 'Class None.SIOJJsonObject'
+[2020.02.22-22.20.36:478][585]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={91CF41A4-4B6E-F1AA-25DE-7A8C07C5C2CC}
+[2020.02.22-22.26.55:180][946]BlueprintLog: New page: Compile AstrumGameMode
+[2020.02.22-22.26.55:346][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.02.22-22.26.55:379][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/AstrumGameMode" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/AstrumGameMode.uasset" SILENT=true
+[2020.02.22-22.26.55:621][946]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumGameMode6D38A8524B885A760ECE89845C2E3F12.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/AstrumGameMode.uasset'
+[2020.02.22-22.26.57:212][ 37]LogRenderer: Reallocating scene render targets to support 1168x500 Format 10 NumSamples 1 (Frame:440).
+[2020.02.22-22.28.33:283][619]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.22-22.28.39:560][994]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/DemoController.DemoController
+[2020.02.22-22.28.41:600][ 94]LogSlate: Window 'DemoController' being destroyed
+[2020.02.22-22.29.33:325][171]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={7E0C753A-4C03-8A9E-4153-BA82F067EF97}
+[2020.02.22-22.29.55:740][504]BlueprintLog: New page: Compile DemoController
+[2020.02.22-22.29.55:774][504]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.02.22-22.29.55:803][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/DemoController" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoController.uasset" SILENT=true
+[2020.02.22-22.29.55:826][504]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/DemoController455398B34C70887B8795438D9E5C469F.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoController.uasset'
+[2020.02.22-22.30.10:440][377]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.22-22.30.11:323][377]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.883 s
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: 
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/EdGraph/EdGraphPin.cpp] [Line: 475]
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'execute' on node 'Switch on Int' not reciprocally linked with pin 'then' on node 'Event New Analogue Input'
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: Stack: 
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: [Callstack] 0x00007ff9959c0225 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: [Callstack] 0x00007ff99481052b UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: [Callstack] 0x00007ff9948103f0 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: [Callstack] 0x00007ff994884872 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: [Callstack] 0x00007ff99f1cd355 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: [Callstack] 0x00007ff994884608 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: [Callstack] 0x00007ff99f1cd250 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: [Callstack] 0x00007ff9a5ef9aac UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: [Callstack] 0x00007ff9a04dde5c UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: [Callstack] 0x00007ff9a04e5d78 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: [Callstack] 0x00007ff9a989b62a UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: [Callstack] 0x00007ff9a98d191e UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: [Callstack] 0x00007ff99a66fc08 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: [Callstack] 0x00007ff9a9863076 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.22-22.30.11:323][377]LogOutputDevice: Error: [Callstack] 0x00007ff9a98d3413 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.22-22.30.11:324][377]LogOutputDevice: Error: [Callstack] 0x00007ff9a98c87fe UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.22-22.30.11:324][377]LogOutputDevice: Error: [Callstack] 0x00007ff9adc84a7c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.22-22.30.11:324][377]LogOutputDevice: Error: [Callstack] 0x00007ff9adc726df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.22-22.30.11:324][377]LogOutputDevice: Error: [Callstack] 0x00007ff9adc87340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.22-22.30.11:324][377]LogOutputDevice: Error: [Callstack] 0x00007ff9adc6edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.22-22.30.11:324][377]LogOutputDevice: Error: [Callstack] 0x00007ff9ed6d5b6d USER32.dll!UnknownFunction []
+[2020.02.22-22.30.11:324][377]LogOutputDevice: Error: [Callstack] 0x00007ff9ed6d5562 USER32.dll!UnknownFunction []
+[2020.02.22-22.30.11:324][377]LogOutputDevice: Error: [Callstack] 0x00007ff9adc888e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.22-22.30.11:324][377]LogOutputDevice: Error: [Callstack] 0x00007ff71cbf6980 UE4Editor.exe!UnknownFunction []
+[2020.02.22-22.30.11:324][377]LogOutputDevice: Error: [Callstack] 0x00007ff71cc0a91c UE4Editor.exe!UnknownFunction []
+[2020.02.22-22.30.11:324][377]LogOutputDevice: Error: [Callstack] 0x00007ff71cc0a9fa UE4Editor.exe!UnknownFunction []
+[2020.02.22-22.30.11:324][377]LogOutputDevice: Error: [Callstack] 0x00007ff71cc1b92c UE4Editor.exe!UnknownFunction []
+[2020.02.22-22.30.11:324][377]LogOutputDevice: Error: [Callstack] 0x00007ff71cc1e60e UE4Editor.exe!UnknownFunction []
+[2020.02.22-22.30.11:324][377]LogOutputDevice: Error: [Callstack] 0x00007ff9ec6c7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.02.22-22.30.11:324][377]LogOutputDevice: Error: [Callstack] 0x00007ff9ee24ced1 ntdll.dll!UnknownFunction []
+[2020.02.22-22.30.11:324][377]LogOutputDevice: Error: 
+[2020.02.22-22.30.11:339][377]LogStats:                SubmitErrorReport -  0.000 s
+[2020.02.22-22.30.12:094][377]LogStats:                    SendNewReport -  0.755 s
+[2020.02.22-22.30.12:094][377]LogStats:             FDebug::EnsureFailed -  1.654 s
+[2020.02.22-22.30.12:094][377]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.22-22.30.12:095][377]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: 
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/EdGraph/EdGraphPin.cpp] [Line: 475]
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'Selection' on node 'Switch on Int' not reciprocally linked with pin 'Controller ID' on node 'Event New Analogue Input'
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: Stack: 
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: [Callstack] 0x00007ff9959c0225 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: [Callstack] 0x00007ff99481052b UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: [Callstack] 0x00007ff9948103f0 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: [Callstack] 0x00007ff994884872 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: [Callstack] 0x00007ff99f1cd355 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: [Callstack] 0x00007ff994884608 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: [Callstack] 0x00007ff99f1cd250 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: [Callstack] 0x00007ff9a5ef9aac UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: [Callstack] 0x00007ff9a04dde5c UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: [Callstack] 0x00007ff9a04e5d78 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: [Callstack] 0x00007ff9a989b62a UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: [Callstack] 0x00007ff9a98d191e UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: [Callstack] 0x00007ff99a66fc08 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: [Callstack] 0x00007ff9a9863076 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: [Callstack] 0x00007ff9a98d3413 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: [Callstack] 0x00007ff9a98c87fe UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: [Callstack] 0x00007ff9adc84a7c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.22-22.30.12:095][377]LogOutputDevice: Error: [Callstack] 0x00007ff9adc726df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.22-22.30.12:096][377]LogOutputDevice: Error: [Callstack] 0x00007ff9adc87340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.22-22.30.12:096][377]LogOutputDevice: Error: [Callstack] 0x00007ff9adc6edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.22-22.30.12:096][377]LogOutputDevice: Error: [Callstack] 0x00007ff9ed6d5b6d USER32.dll!UnknownFunction []
+[2020.02.22-22.30.12:096][377]LogOutputDevice: Error: [Callstack] 0x00007ff9ed6d5562 USER32.dll!UnknownFunction []
+[2020.02.22-22.30.12:096][377]LogOutputDevice: Error: [Callstack] 0x00007ff9adc888e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.22-22.30.12:096][377]LogOutputDevice: Error: [Callstack] 0x00007ff71cbf6980 UE4Editor.exe!UnknownFunction []
+[2020.02.22-22.30.12:096][377]LogOutputDevice: Error: [Callstack] 0x00007ff71cc0a91c UE4Editor.exe!UnknownFunction []
+[2020.02.22-22.30.12:096][377]LogOutputDevice: Error: [Callstack] 0x00007ff71cc0a9fa UE4Editor.exe!UnknownFunction []
+[2020.02.22-22.30.12:096][377]LogOutputDevice: Error: [Callstack] 0x00007ff71cc1b92c UE4Editor.exe!UnknownFunction []
+[2020.02.22-22.30.12:096][377]LogOutputDevice: Error: [Callstack] 0x00007ff71cc1e60e UE4Editor.exe!UnknownFunction []
+[2020.02.22-22.30.12:096][377]LogOutputDevice: Error: [Callstack] 0x00007ff9ec6c7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.02.22-22.30.12:096][377]LogOutputDevice: Error: [Callstack] 0x00007ff9ee24ced1 ntdll.dll!UnknownFunction []
+[2020.02.22-22.30.12:096][377]LogOutputDevice: Error: 
+[2020.02.22-22.30.12:106][377]LogStats:                SubmitErrorReport -  0.000 s
+[2020.02.22-22.30.12:819][377]LogStats:                    SendNewReport -  0.713 s
+[2020.02.22-22.30.12:819][377]LogStats:             FDebug::EnsureFailed -  0.725 s
+[2020.02.22-22.30.15:013][509]BlueprintLog: New page: Compile DemoController
+[2020.02.22-22.30.15:046][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.02.22-22.30.15:071][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/DemoController" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoController.uasset" SILENT=true
+[2020.02.22-22.30.15:180][509]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/DemoControllerED7371D447B2BBC5DEAD7DBD3438A31A.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoController.uasset'
+[2020.02.22-22.31.26:040][730]BlueprintLog: New page: Compile DemoController
+[2020.02.22-22.31.26:073][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.02.22-22.31.26:089][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/DemoController" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoController.uasset" SILENT=true
+[2020.02.22-22.31.26:193][730]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/DemoControllerD4C6130844B24C4C81A8608CD73CC433.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoController.uasset'
+[2020.02.22-22.31.27:952][834]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Astrum/AstrumPlayerController.AstrumPlayerController
+[2020.02.22-22.32.25:717][284]BlueprintLog: New page: Compile AstrumPlayerController
+[2020.02.22-22.32.25:794][284]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.02.22-22.33.56:522][670]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.22-22.34.48:343][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.02.22-22.34.48:343][736]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.040
+[2020.02.22-22.34.48:345][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/DemoController] ([1] browsable assets)...
+[2020.02.22-22.34.48:345][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/DemoController]
+[2020.02.22-22.34.48:345][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/DemoController" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Autosaves/Game/Demo/DemoController_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.02.22-22.34.48:452][736]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/DemoController_Auto1CCC43B9C4642D3750545C9A0EB91EBF6.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Autosaves/Game/Demo/DemoController_Auto1.uasset'
+[2020.02.22-22.34.48:455][736]LogFileHelpers: Auto-saving content packages took 0.112
+[2020.02.22-22.35.33:605][445]BlueprintLog: New page: Compile DemoController
+[2020.02.22-22.35.33:607][445]LogBlueprint: Error: [Compiler DemoController] Cannot construct objects of type '/Game/Astrum/AstrumPlayerCharacter.AstrumPlayerCharacter_C' in  Construct Object from Class
+[2020.02.22-22.35.33:649][445]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.02.22-22.35.53:845][657]BlueprintLog: New page: Compile DemoController
+[2020.02.22-22.35.53:845][657]LogBlueprint: Error: [Compiler DemoController] Cannot construct objects of type '/Game/Astrum/AstrumPlayerCharacter.AstrumPlayerCharacter_C' in  Construct Object from Class
+[2020.02.22-22.35.53:884][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.02.22-22.37.20:309][862]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.22-22.38.03:049][996]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.22-22.38.33:266][473]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Astrum/AstrumPlayerGroup.AstrumPlayerGroup
+[2020.02.22-22.38.36:190][624]LogSlate: Took 0.002541 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.22-22.38.41:662][832]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.02.22-22.38.44:776][978]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.02.22-22.38.45:458][ 14]BlueprintLog: New page: Compile AstrumPlayerGroup
+[2020.02.22-22.38.45:482][ 14]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.38.45:483][ 14]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.38.45:483][ 14]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.38.45:483][ 14]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.38.45:483][ 14]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.38.45:486][ 14]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.38.45:487][ 14]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.38.45:528][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.02.22-22.38.53:659][423]BlueprintLog: New page: Compile AstrumPlayerGroup
+[2020.02.22-22.38.53:677][423]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.38.53:677][423]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.38.53:677][423]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.38.53:678][423]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.38.53:681][423]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.38.53:681][423]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.38.53:727][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.02.22-22.39.14:588][517]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Astrum/AstrumPlayerController2.AstrumPlayerController2
+[2020.02.22-22.39.14:898][518]LogRenderer: Reallocating scene render targets to support 1168x544 Format 10 NumSamples 1 (Frame:1).
+[2020.02.22-22.40.04:664][110]LogBlueprint: Warning: [Compiler AstrumPlayerController2] Variable Player Character is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2020.02.22-22.40.19:197][895]BlueprintLog: New page: Compile AstrumPlayerController2
+[2020.02.22-22.40.19:370][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.02.22-22.40.19:397][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumPlayerController2" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController2.uasset" SILENT=true
+[2020.02.22-22.40.19:436][895]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumPlayerController2C70F087047B0B5566A8C75AD42D2AEE4.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController2.uasset'
+[2020.02.22-22.40.20:698][959]BlueprintLog: New page: Compile AstrumPlayerController
+[2020.02.22-22.40.20:756][959]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.02.22-22.40.20:782][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumPlayerController" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController.uasset" SILENT=true
+[2020.02.22-22.40.20:896][959]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumPlayerControllerA553C6B941B8200AEF7E11AC77163409.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController.uasset'
+[2020.02.22-22.40.20:913][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/DemoController" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoController.uasset" SILENT=true
+[2020.02.22-22.40.21:020][959]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/DemoControllerF38AE4A342E90CDCAF1CE1B4391991D5.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoController.uasset'
+[2020.02.22-22.41.00:282][891]BlueprintLog: New page: Compile AstrumPlayerGroup
+[2020.02.22-22.41.00:305][891]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.41.00:305][891]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.41.00:305][891]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.41.00:308][891]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.41.00:309][891]LogBlueprint: Error: [Compiler AstrumPlayerGroup] Can't connect pins  Player  and  Value : Astrum Player Controller 2 Object Reference is not compatible with Astrum Player Controller Object Reference.
+[2020.02.22-22.41.00:309][891]LogBlueprint: Error: [Compiler AstrumPlayerGroup] Can't connect pins  Value  and  Player : Astrum Player Controller Object Reference is not compatible with Astrum Player Controller 2 Object Reference.
+[2020.02.22-22.41.00:309][891]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.41.00:358][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.02.22-22.41.06:066][178]BlueprintLog: New page: Compile AstrumPlayerGroup
+[2020.02.22-22.41.06:079][178]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.41.06:079][178]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.41.06:083][178]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.41.06:084][178]LogBlueprint: Error: [Compiler AstrumPlayerGroup] Can't connect pins  Player  and  Value : Astrum Player Controller 2 Object Reference is not compatible with Astrum Player Controller Object Reference.
+[2020.02.22-22.41.06:084][178]LogBlueprint: Error: [Compiler AstrumPlayerGroup] Can't connect pins  Value  and  Player : Astrum Player Controller Object Reference is not compatible with Astrum Player Controller 2 Object Reference.
+[2020.02.22-22.41.06:084][178]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.41.06:135][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.02.22-22.41.10:766][414]BlueprintLog: New page: Compile AstrumPlayerGroup
+[2020.02.22-22.41.10:778][414]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.41.10:781][414]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.41.10:782][414]LogBlueprint: Error: [Compiler AstrumPlayerGroup] Can't connect pins  Player  and  Value : Astrum Player Controller 2 Object Reference is not compatible with Astrum Player Controller Object Reference.
+[2020.02.22-22.41.10:782][414]LogBlueprint: Error: [Compiler AstrumPlayerGroup] Can't connect pins  Value  and  Player : Astrum Player Controller Object Reference is not compatible with Astrum Player Controller 2 Object Reference.
+[2020.02.22-22.41.10:782][414]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.41.10:824][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.02.22-22.41.26:950][184]BlueprintLog: New page: Compile AstrumPlayerGroup
+[2020.02.22-22.41.26:964][184]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.41.26:966][184]LogBlueprint: Error: [Compiler AstrumPlayerGroup] Can't connect pins  Player  and  Value : Astrum Player Controller 2 Object Reference is not compatible with Astrum Player Controller Object Reference.
+[2020.02.22-22.41.26:966][184]LogBlueprint: Error: [Compiler AstrumPlayerGroup] Can't connect pins  Value  and  Player : Astrum Player Controller Object Reference is not compatible with Astrum Player Controller 2 Object Reference.
+[2020.02.22-22.41.26:966][184]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.41.27:007][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.02.22-22.41.52:650][388]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.02.22-22.41.58:084][660]BlueprintLog: New page: Compile AstrumPlayerGroup
+[2020.02.22-22.41.58:100][660]LogBlueprint: Error: [Compiler AstrumPlayerGroup] Can't connect pins  Player  and  Value : Astrum Player Controller 2 Object Reference is not compatible with Astrum Player Controller Object Reference.
+[2020.02.22-22.41.58:100][660]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Temp Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.41.58:100][660]LogBlueprint: Error: [Compiler AstrumPlayerGroup] Can't connect pins  Value  and  Player : Astrum Player Controller Object Reference is not compatible with Astrum Player Controller 2 Object Reference.
+[2020.02.22-22.41.58:100][660]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.41.58:141][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.02.22-22.42.12:903][397]BlueprintLog: New page: Compile AstrumPlayerGroup
+[2020.02.22-22.42.12:917][397]LogBlueprint: Error: [Compiler AstrumPlayerGroup] In use pin  Clients  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.02.22-22.42.12:959][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.02.22-22.42.18:918][699]BlueprintLog: New page: Compile AstrumPlayerGroup
+[2020.02.22-22.42.18:980][699]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.02.22-22.42.19:019][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumPlayerGroup" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerGroup.uasset" SILENT=true
+[2020.02.22-22.42.19:333][699]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumPlayerGroupF3C699D147AA560B540391BBA24B9251.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerGroup.uasset'
+[2020.02.22-22.42.21:653][817]BlueprintLog: New page: Compile AstrumPlayerController2
+[2020.02.22-22.42.21:842][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.02.22-22.42.23:169][883]BlueprintLog: New page: Compile AstrumPlayerController
+[2020.02.22-22.42.23:228][883]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.02.22-22.42.24:369][941]BlueprintLog: New page: Compile DemoController
+[2020.02.22-22.42.24:407][941]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.02.22-22.42.25:336][991]BlueprintLog: New page: Compile AstrumGameMode
+[2020.02.22-22.42.25:504][991]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.02.22-22.42.35:930][532]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Astrum/AstrumPlayerCharacter.AstrumPlayerCharacter
+[2020.02.22-22.42.37:052][572]BlueprintLog: New page: Compile AstrumPlayerCharacter
+[2020.02.22-22.42.37:218][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.02.22-22.42.38:088][624]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.02.22-22.42.38:138][624]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Astrum/AstrumPlayerCharacter.AstrumPlayerCharacter
+[2020.02.22-22.42.39:006][659]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.02.22-22.42.40:679][744]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Astrum/AstrumClient.AstrumClient
+[2020.02.22-22.42.41:553][769]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-22.42.41:575][769]LogBlueprint: Error: [Compiler AstrumClient] COMPILER ERROR: failed building connection with 'Astrum Player Controller Object Reference is not compatible with Astrum Player Controller 2 Object Reference.' at  Construct Object from Class
+[2020.02.22-22.42.41:575][769]LogBlueprint: Error: [Compiler AstrumClient] ICE: GenericCreateObject error  Construct Object from Class
+[2020.02.22-22.42.41:752][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.02.22-22.42.50:878][244]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.22-22.42.54:937][407]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-22.42.54:949][407]LogBlueprint: Error: [Compiler AstrumClient] Cannot construct objects of type '/Game/Astrum/AstrumPlayerController2.AstrumPlayerController2_C' in  Construct Object from Class
+[2020.02.22-22.42.55:142][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.02.22-22.43.04:988][893]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-22.43.05:000][893]LogBlueprint: Error: [Compiler AstrumClient] Cannot construct objects of type '/Game/Astrum/AstrumPlayerController2.AstrumPlayerController2_C' in  Construct Object from Class
+[2020.02.22-22.43.05:000][893]LogBlueprint: Error: [Compiler AstrumClient] Outer object is required in  Construct Object from Class
+[2020.02.22-22.43.05:200][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.02.22-22.43.08:388][ 39]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-22.43.08:399][ 39]LogBlueprint: Error: [Compiler AstrumClient] Cannot construct objects of type '/Game/Astrum/AstrumPlayerController2.AstrumPlayerController2_C' in  Construct Object from Class
+[2020.02.22-22.43.08:399][ 39]LogBlueprint: Error: [Compiler AstrumClient] Outer object is required in  Construct Object from Class
+[2020.02.22-22.43.08:591][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.02.22-22.43.24:672][789]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-22.43.24:683][789]LogBlueprint: Error: [Compiler AstrumClient] Cannot construct objects of type '/Game/Astrum/AstrumPlayerController2.AstrumPlayerController2_C' in  Construct Object from Class
+[2020.02.22-22.43.24:885][789]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.02.22-22.44.19:061][746]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-22.44.19:081][746]LogBlueprint: Error: [Compiler AstrumClient] Cannot construct objects of type '/Game/Astrum/AstrumPlayerController2.AstrumPlayerController2_C' in  Construct Object from Class
+[2020.02.22-22.44.19:081][746]LogBlueprint: Error: [Compiler AstrumClient] Outer object is required in  Construct Object from Class
+[2020.02.22-22.44.19:095][746]LogBlueprint: Error: [Compiler AstrumGameMode] Can't connect pins  Player Controller  and  Player : Astrum Player Controller 2 Object Reference is not compatible with Astrum Player Controller Object Reference.
+[2020.02.22-22.44.19:096][746]LogBlueprint: Error: [Compiler AstrumGameMode] Can't connect pins  Player  and  Player Controller : Astrum Player Controller Object Reference is not compatible with Astrum Player Controller 2 Object Reference.
+[2020.02.22-22.44.19:104][746]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.02.22-22.44.19:311][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.02.22-22.44.24:487][ 50]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.22-22.44.44:254][135]LogBlueprint: Warning: [Compiler AstrumPlayerController2] Variable Player Character is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2020.02.22-22.44.47:688][340]BlueprintLog: New page: Compile AstrumPlayerController2
+[2020.02.22-22.44.47:899][340]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.02.22-22.44.47:927][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumPlayerController2" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController2.uasset" SILENT=true
+[2020.02.22-22.44.48:047][340]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumPlayerController2D8FEB68E4361F65BF24003B356487F22.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController2.uasset'
+[2020.02.22-22.44.50:082][457]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-22.44.50:092][457]LogBlueprint: Error: [Compiler AstrumClient] Cannot construct objects of type '/Game/Astrum/AstrumPlayerController2.AstrumPlayerController2_C' in  Construct Object from Class
+[2020.02.22-22.44.50:095][457]LogBlueprint: Warning: [Compiler AstrumClient] Input pin  Player Character  specifying non-default value no longer exists on node  Construct Object from Class . Please refresh node or reset pin to default value to remove pin.
+[2020.02.22-22.44.50:146][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.02.22-22.44.58:049][917]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.22-22.45.01:845][103]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-22.45.01:855][103]LogBlueprint: Error: [Compiler AstrumClient] Cannot construct objects of type '/Game/Astrum/AstrumPlayerController2.AstrumPlayerController2_C' in  Construct Object from Class
+[2020.02.22-22.45.01:855][103]LogBlueprint: Error: [Compiler AstrumClient] Cannot construct objects of type '/Game/Astrum/AstrumPlayerController2.AstrumPlayerController2_C' in  Construct Object from Class
+[2020.02.22-22.45.01:855][103]LogBlueprint: Error: [Compiler AstrumClient] Outer object is required in  Construct Object from Class
+[2020.02.22-22.45.01:858][103]LogBlueprint: Warning: [Compiler AstrumClient] Input pin  Player Character  specifying non-default value no longer exists on node  Construct Object from Class . Please refresh node or reset pin to default value to remove pin.
+[2020.02.22-22.45.01:909][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.02.22-22.45.19:960][377]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-22.45.19:970][377]LogBlueprint: Error: [Compiler AstrumClient] Cannot construct objects of type '/Game/Astrum/AstrumPlayerController2.AstrumPlayerController2_C' in  Construct Object from Class
+[2020.02.22-22.45.19:970][377]LogBlueprint: Error: [Compiler AstrumClient] Outer object is required in  Construct Object from Class
+[2020.02.22-22.45.20:023][377]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.02.22-22.45.53:001][897]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.02.22-22.45.53:001][897]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.041
+[2020.02.22-22.45.53:003][897]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Astrum/AstrumClient] ([1] browsable assets)...
+[2020.02.22-22.45.53:003][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/Astrum/AstrumClient]
+[2020.02.22-22.45.53:003][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Autosaves/Game/Astrum/AstrumClient_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.02.22-22.45.53:592][897]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient_Auto260A429D747E2ADE1E7C9D69E8E0BA679.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Autosaves/Game/Astrum/AstrumClient_Auto2.uasset'
+[2020.02.22-22.45.53:597][897]LogFileHelpers: Auto-saving content packages took 0.594
+[2020.02.22-22.46.11:372][951]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.22-22.46.20:688][476]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-22.46.20:699][476]LogBlueprint: Error: [Compiler AstrumClient] Outer object is required in  Construct Object from Class
+[2020.02.22-22.46.20:702][476]LogBlueprint: Warning: [Compiler AstrumClient] Input pin  Instigator  specifying non-default value no longer exists on node  Construct Object from Class . Please refresh node or reset pin to default value to remove pin.
+[2020.02.22-22.46.20:756][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.02.22-22.46.25:272][717]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-22.46.25:282][717]LogBlueprint: Error: [Compiler AstrumClient] Outer object is required in  Construct Object from Class
+[2020.02.22-22.46.25:337][717]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.02.22-22.46.29:311][952]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-22.46.29:383][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.02.22-22.46.29:431][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.22-22.46.29:982][952]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient00DF14DC4D0934DCD1253F8C6788C85D.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.22-22.46.43:421][738]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.22-22.46.47:973][959]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-22.46.48:043][959]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.02.22-22.46.48:081][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.22-22.46.48:640][959]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClientCAFB0314494EA1C5E9FACEBDD4B78BE6.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.22-22.48.12:123][830]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-22.48.12:145][830]LogBlueprint: Error: [Compiler AstrumClient] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.02.22-22.48.12:145][830]LogBlueprint: Error: [Compiler AstrumClient] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.02.22-22.48.12:193][830]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.02.22-22.48.22:642][444]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-22.48.22:707][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.02.22-22.48.22:753][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.22-22.48.23:315][444]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClientF5320E0D4CCAFD2E95A0A991CA122A0F.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.22-22.50.55:439][443]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-22.50.55:511][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.02.22-22.50.55:542][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.22-22.50.56:099][443]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient7E19C79F42557E3B5265349DB53C6BC6.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.22-22.55.53:957][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.02.22-22.55.53:957][  5]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.043
+[2020.02.22-22.55.53:959][  5]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Astrum/AstrumClient] ([1] browsable assets)...
+[2020.02.22-22.55.53:959][  5]OBJ SavePackage: Finished generating thumbnails for package [/Game/Astrum/AstrumClient]
+[2020.02.22-22.55.53:959][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Autosaves/Game/Astrum/AstrumClient_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.02.22-22.55.54:526][  5]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient_Auto37794BF4C47BBB1E1359BD1B9D705E75C.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Autosaves/Game/Astrum/AstrumClient_Auto3.uasset'
+[2020.02.22-22.55.54:530][  5]LogFileHelpers: Auto-saving content packages took 0.571
+[2020.02.22-23.01.30:037][841]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-23.01.30:109][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.02.22-23.01.30:155][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.22-23.01.30:732][841]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient78596AD24DC103E7AE32BD8DD8F044C7.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.22-23.01.31:885][907]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-23.01.31:913][907]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.22-23.01.31:913][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-23.01.31:913][907]BlueprintLog: Warning: Blueprint failed to compile:  AstrumGameMode
+[2020.02.22-23.01.31:914][907]LogCustomDialog: Dialog displayed:
+[2020.02.22-23.01.33:850][907]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.02.22-23.01.39:989][273]LogEditorTransaction: Undo Break Pin Links
+[2020.02.22-23.01.42:804][423]BlueprintLog: New page: Compile AstrumGameMode
+[2020.02.22-23.01.42:987][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.02.22-23.01.43:022][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/AstrumGameMode" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/AstrumGameMode.uasset" SILENT=true
+[2020.02.22-23.01.43:267][423]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumGameModeBBCB9072438B6F4969499F906FE9864A.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/AstrumGameMode.uasset'
+[2020.02.22-23.02.07:951][826]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-23.02.07:976][826]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.02.22-23.02.08:143][826]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.02.22-23.02.08:189][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.22-23.02.08:767][826]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient45C1E7E74CB8135107C9879C41D50C94.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.22-23.02.08:790][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/AstrumGameMode" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/AstrumGameMode.uasset" SILENT=true
+[2020.02.22-23.02.09:029][826]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumGameMode35B348624235A72EFB4EC49513BB1AFF.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/AstrumGameMode.uasset'
+[2020.02.22-23.02.35:303][391]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-23.02.35:328][391]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.02.22-23.02.35:503][391]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.02.22-23.02.35:540][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.22-23.02.36:128][391]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient546C6FFE4491F667C7F8E185DA881DBF.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.22-23.02.36:140][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/AstrumGameMode" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/AstrumGameMode.uasset" SILENT=true
+[2020.02.22-23.02.36:372][391]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumGameMode50ABE545445F1684E4E10CABA98857CC.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/AstrumGameMode.uasset'
+[2020.02.22-23.02.42:433][749]BlueprintLog: New page: Compile AstrumGameMode
+[2020.02.22-23.02.42:606][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.02.22-23.02.42:641][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/AstrumGameMode" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/AstrumGameMode.uasset" SILENT=true
+[2020.02.22-23.02.42:880][749]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumGameMode826B6E6A405E69BCEB8975890ABD9EB0.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/AstrumGameMode.uasset'
+[2020.02.22-23.02.44:721][856]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-23.02.44:749][856]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.22-23.02.44:749][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-23.02.44:750][856]PIE: New page: PIE session: Untitled_1 (22 Feb 2020 23:02:44)
+[2020.02.22-23.02.44:751][856]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.22-23.02.44:752][856]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.02.22-23.02.44:754][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002006s)
+[2020.02.22-23.02.44:755][856]LogAIModule: Creating AISystem for world Untitled_1
+[2020.02.22-23.02.44:755][856]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2020.02.22-23.02.44:755][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003155s)
+[2020.02.22-23.02.44:792][856]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.02.22-23.02.44:877][856]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.22-23.02.44:888][856]LogInit: FAudioDevice initialized.
+[2020.02.22-23.02.44:900][856]LogLoad: Game class is 'AstrumGameMode_C'
+[2020.02.22-23.02.44:901][856]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.02.22-23.02.44
+[2020.02.22-23.02.44:902][856]LogWorld: Bringing up level for play took: 0.000467
+[2020.02.22-23.02.44:902][856]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.02.22-23.02.44:913][856]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.02.22-23.02.44:913][856]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.22-23.02.44:913][856]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.22-23.02.44:913][856]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.22-23.02.44:944][856]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.22-23.02.44:944][856]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.57
+[2020.02.22-23.02.44:944][856]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.22-23.02.45:576][879]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.22-23.02.45:576][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-23.02.45:576][879]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.02.22-23.02.45:576][879]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.22-23.02.45:586][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-23.02.45:586][879]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.22-23.02.45:637][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-23.02.45:657][879]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.02.22-23.02.45:684][881]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.22-23.02.45:784][887]LogUObjectGlobals: Warning: Failed to find object 'Class None.SIOJJsonObject'
+[2020.02.22-23.02.45:784][887]LogUObjectGlobals: Warning: Failed to find object 'Class None.SIOJJsonObject'
+[2020.02.22-23.06.05:877][944]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.02.22-23.06.05:877][944]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.050
+[2020.02.22-23.06.05:879][944]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Astrum/AstrumPlayerGroup] ([1] browsable assets)...
+[2020.02.22-23.06.05:879][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/Astrum/AstrumPlayerGroup]
+[2020.02.22-23.06.06:182][944]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumPlayerGroup_Auto4F0C84E6F44538E942304088BFC965303.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Autosaves/Game/Astrum/AstrumPlayerGroup_Auto4.uasset'
+[2020.02.22-23.06.06:186][944]LogFileHelpers: Auto-saving content packages took 0.307
+[2020.02.22-23.09.53:694][524]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-23.09.53:706][524]LogBlueprint: Error: [Compiler AstrumClient] Can't connect pins  Player  and  Target : Astrum Player Controller 2 Object Reference is not compatible with Astrum Player Controller Object Reference.
+[2020.02.22-23.09.53:706][524]LogBlueprint: Error: [Compiler AstrumClient] Can't connect pins  Target  and  Player : Astrum Player Controller Object Reference is not compatible with Astrum Player Controller 2 Object Reference.
+[2020.02.22-23.09.53:713][524]LogBlueprint: Warning: [Compiler AstrumGameMode] Could not find the function 'Vibrate Controller' called from  Vibrate Controller
+[2020.02.22-23.09.53:718][524]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.02.22-23.09.53:929][524]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.02.22-23.10.18:491][986]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-23.10.18:727][986]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.02.22-23.10.18:761][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.22-23.10.19:339][986]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient6688CABC4F817FBAB501878556FB6CCB.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.22-23.11.08:181][913]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-23.11.08:201][913]LogBlueprint: Error: [Compiler AstrumClient] This blueprint (self) is not a AstrumPlayerController_C, therefore ' Target ' must have a connection.
+[2020.02.22-23.11.08:202][913]LogBlueprint: Error: [Compiler AstrumClient] Variable node  Get Client Id  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.02.22-23.11.08:434][913]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.02.22-23.11.29:612][ 65]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-23.11.29:646][ 65]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.02.22-23.11.29:881][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.02.22-23.11.29:915][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.22-23.11.30:482][ 65]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClientF9DB241947C3D271216592B7A4830B3D.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.22-23.11.30:497][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/AstrumGameMode" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/AstrumGameMode.uasset" SILENT=true
+[2020.02.22-23.11.30:730][ 65]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumGameMode07F7258E49A47B2FBFFB22891B51A77E.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/AstrumGameMode.uasset'
+[2020.02.22-23.11.32:335][159]BlueprintLog: New page: Compile AstrumPlayerGroup
+[2020.02.22-23.11.32:403][159]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.02.22-23.11.32:448][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumPlayerGroup" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerGroup.uasset" SILENT=true
+[2020.02.22-23.11.32:756][159]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumPlayerGroupA6E4EBFC46D1CCB507F6A4A37872126C.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerGroup.uasset'
+[2020.02.22-23.12.20:993][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.02.22-23.12.30:200][550]LogSlate: Window 'Reference Viewer' being destroyed
+[2020.02.22-23.12.36:679][935]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.22-23.12.39:460][ 96]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/DemoController.DemoController
+[2020.02.22-23.12.40:957][168]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.22-23.12.45:681][444]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.02.22-23.12.47:334][538]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.02.22-23.12.48:558][538]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.22-23.12.48:662][538]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.02.22-23.12.48:703][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.02.22-23.12.48:744][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.02.22-23.12.54:301][867]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.02.22-23.12.57:257][867]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.22-23.13.02:956][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.02.22-23.14.32:115][207]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.22-23.14.48:915][207]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.22-23.14.48:954][207]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Astrum/AstrumPlayerController.AstrumPlayerController
+[2020.02.22-23.14.49:661][207]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.02.22-23.14.49:701][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.02.22-23.14.49:739][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.02.22-23.14.51:575][317]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-23.14.51:601][317]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.22-23.14.51:601][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-23.14.51:601][317]PIE: New page: PIE session: Untitled_1 (22 Feb 2020 23:14:51)
+[2020.02.22-23.14.51:601][317]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.02.22-23.14.51:603][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001791s)
+[2020.02.22-23.14.51:604][317]LogAIModule: Creating AISystem for world Untitled_1
+[2020.02.22-23.14.51:604][317]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2020.02.22-23.14.51:604][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002736s)
+[2020.02.22-23.14.51:644][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.02.22-23.14.51:730][317]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.22-23.14.51:741][317]LogInit: FAudioDevice initialized.
+[2020.02.22-23.14.51:750][317]LogLoad: Game class is 'AstrumGameMode_C'
+[2020.02.22-23.14.51:751][317]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.02.22-23.14.51
+[2020.02.22-23.14.51:751][317]LogWorld: Bringing up level for play took: 0.000507
+[2020.02.22-23.14.51:751][317]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.02.22-23.14.51:753][317]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.22-23.14.51:753][317]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.22-23.14.51:753][317]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.22-23.14.51:779][317]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.22-23.14.51:779][317]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.265
+[2020.02.22-23.14.51:779][317]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.22-23.14.52:930][385]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.22-23.14.52:930][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-23.14.52:930][385]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.02.22-23.14.52:930][385]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.22-23.14.52:938][385]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-23.14.52:939][385]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.22-23.14.52:981][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-23.14.52:985][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.02.22-23.14.53:031][388]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.02.22-23.14.53:547][419]Cmd: SELECT NONE
+[2020.02.22-23.14.54:201][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.02.22-23.19.10:077][240]LogHttp: Warning: 000001CB384D1BC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8BAE4AD5-415C-48D0-9346-759A6E072CF3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=47f81858461410bdd410a599b2133aa6%7C0c79df37d64646cfbcda21723a7dbec0%7Ceb906fa0-eb5c-4119-9815-a2e906b3fd2b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.02.22-23.19.10:077][240]LogHttp: Warning: 000001CB384D1BC0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.22-23.19.10:077][240]LogHttp: Warning: 000001CB384D1BC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1cb6472ff70 [can pipeline])
+[2020.02.22-23.19.10:077][240]LogHttp: Warning: 000001CB384D1BC0: libcurl info message cache 1 (Re-using existing connection! (#26) with host datarouter.ol.epicgames.com)
+[2020.02.22-23.19.10:077][240]LogHttp: Warning: 000001CB384D1BC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.88.194.72) port 443 (#26))
+[2020.02.22-23.19.10:077][240]LogHttp: Warning: 000001CB384D1BC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.22-23.19.10:077][240]LogHttp: Warning: 000001CB384D1BC0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.22-23.19.10:077][240]LogHttp: Warning: 000001CB384D1BC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.22-23.19.10:077][240]LogHttp: Warning: 000001CB384D1BC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.22-23.19.10:077][240]LogHttp: Warning: 000001CB384D1BC0: libcurl info message cache 7 (Closing connection 26)
+[2020.02.22-23.19.10:077][240]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8BAE4AD5-415C-48D0-9346-759A6E072CF3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=47f81858461410bdd410a599b2133aa6%7C0c79df37d64646cfbcda21723a7dbec0%7Ceb906fa0-eb5c-4119-9815-a2e906b3fd2b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.22-23.20.20:583][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.02.22-23.20.20:606][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumPlayerController" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController.uasset" SILENT=true
+[2020.02.22-23.20.20:643][911]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumPlayerControllerF456543044D725B07B0F26867F985DA0.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController.uasset'
+[2020.02.22-23.20.20:712][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.02.22-23.20.20:955][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.02.22-23.20.21:230][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.02.22-23.20.21:236][911]LogMetaData: Removing '/Game/Astrum/AstrumPlayerController.AstrumPlayerController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Astrum/AstrumPlayerController2.PackageMetaData'
+[2020.02.22-23.20.21:236][911]LogMetaData: Removing '/Game/Astrum/AstrumPlayerController.SKEL_AstrumPlayerController_C' ref from Metadata '/Game/Astrum/AstrumPlayerController2.PackageMetaData'
+[2020.02.22-23.20.21:236][911]LogMetaData: Removing '/Game/Astrum/AstrumPlayerController.AstrumPlayerController_C' ref from Metadata '/Game/Astrum/AstrumPlayerController2.PackageMetaData'
+[2020.02.22-23.20.21:236][911]LogMetaData: Removing '/Game/Astrum/AstrumPlayerController.AstrumPlayerController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Astrum/AstrumPlayerController2.PackageMetaData'
+[2020.02.22-23.20.21:236][911]LogMetaData: Removing '/Game/Astrum/AstrumPlayerController.AstrumPlayerController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Astrum/AstrumPlayerController2.PackageMetaData'
+[2020.02.22-23.20.21:236][911]LogMetaData: Removing '/Game/Astrum/AstrumPlayerController.AstrumPlayerController:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Astrum/AstrumPlayerController2.PackageMetaData'
+[2020.02.22-23.20.21:261][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumPlayerController" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController.uasset" SILENT=true
+[2020.02.22-23.20.21:380][911]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumPlayerController5E3E6EEC4C53AA74F6C372A12DFC01B0.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController.uasset'
+[2020.02.22-23.20.21:557][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.02.22-23.20.21:597][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.02.22-23.20.21:634][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.02.22-23.20.21:650][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumPlayerGroup" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerGroup.uasset" SILENT=true
+[2020.02.22-23.20.21:936][911]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumPlayerGroupA85C6DED489774AB5EE6078DA8BF84C6.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerGroup.uasset'
+[2020.02.22-23.20.21:948][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.22-23.20.22:514][911]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient71DF76134E928C37549875B3533D8CFD.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.22-23.20.22:525][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/AstrumGameMode" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/AstrumGameMode.uasset" SILENT=true
+[2020.02.22-23.20.22:763][911]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumGameMode543DD6F248A0A337C62E03A7C5B60332.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/AstrumGameMode.uasset'
+[2020.02.22-23.20.27:931][213]LogAIModule: Creating AISystem for world DemoLevel
+[2020.02.22-23.20.27:935][213]LogAssetEditorManager: Opening Asset editor for World /Game/Demo/DemoLevel.DemoLevel
+[2020.02.22-23.20.27:973][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.02.22-23.20.27:973][213]Cmd: MAP LOAD FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.22-23.20.27:973][213]LightingResults: New page: Lighting Build
+[2020.02.22-23.20.27:974][213]LoadErrors: New page: Loading map: DemoLevel.umap
+[2020.02.22-23.20.27:974][213]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.22-23.20.27:974][213]MapCheck: New page: Map Check
+[2020.02.22-23.20.27:974][213]LightingResults: New page: Lighting Build
+[2020.02.22-23.20.28:014][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.02.22-23.20.28:084][213]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.22-23.20.28:132][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.02.22-23.20.28:152][213]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.22-23.20.28:154][213]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.347ms to complete.
+[2020.02.22-23.20.28:154][213]LogFileHelpers: Loading map 'DemoLevel' took 0.181
+[2020.02.22-23.20.29:112][269]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.22-23.20.29:251][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-23.20.29:351][282]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-23.20.29:373][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/Demo/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2020.02.22-23.20.29:374][282]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.22-23.20.29:384][282]LogPlayLevel: [PlayLevel] Compiling AstrumPlayerGroup before play...
+[2020.02.22-23.20.29:413][282]LogPlayLevel: [PlayLevel] Compiling AstrumClient before play...
+[2020.02.22-23.20.29:600][282]LogPlayLevel: [PlayLevel] Compiling AstrumGameMode before play...
+[2020.02.22-23.20.29:839][282]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.02.22-23.20.29:839][282]LogPlayLevel: PlayLevel: Blueprint regeneration took 464 ms (3 blueprints)
+[2020.02.22-23.20.29:839][282]PIE: New page: PIE session: DemoLevel (22 Feb 2020 23:20:29)
+[2020.02.22-23.20.29:839][282]LogPlayLevel: Creating play world package: /Game/Demo/UEDPIE_0_DemoLevel
+[2020.02.22-23.20.29:841][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002233s)
+[2020.02.22-23.20.29:842][282]LogAIModule: Creating AISystem for world DemoLevel
+[2020.02.22-23.20.29:842][282]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2020.02.22-23.20.29:842][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/DemoLevel.DemoLevel to /Game/Demo/UEDPIE_0_DemoLevel.DemoLevel (0.003499s)
+[2020.02.22-23.20.29:884][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.02.22-23.20.29:969][282]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.22-23.20.29:979][282]LogInit: FAudioDevice initialized.
+[2020.02.22-23.20.29:987][282]LogLoad: Game class is 'AstrumGameMode_C'
+[2020.02.22-23.20.29:988][282]LogWorld: Bringing World /Game/Demo/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 60) at 2020.02.22-23.20.29
+[2020.02.22-23.20.29:988][282]LogWorld: Bringing up level for play took: 0.000462
+[2020.02.22-23.20.29:988][282]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.02.22-23.20.29:990][282]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.22-23.20.29:990][282]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.22-23.20.29:990][282]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.22-23.20.30:015][282]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.22-23.20.30:015][282]PIE: Play in editor start time for /Game/Demo/UEDPIE_0_DemoLevel 0.501
+[2020.02.22-23.20.30:015][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/Demo/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2020.02.22-23.20.34:000][522]SocketIOLog: SocketIO Invalid appears to have lost connection, reconnecting attempt 0 with delay 5000
+[2020.02.22-23.20.35:664][621]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/Demo/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2020.02.22-23.20.35:665][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-23.20.35:665][621]LogWorld: BeginTearingDown for /Game/Demo/UEDPIE_0_DemoLevel
+[2020.02.22-23.20.35:665][621]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.22-23.20.35:676][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-23.20.35:676][621]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/Demo/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2020.02.22-23.20.35:723][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-23.20.35:727][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.02.22-23.20.35:779][624]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.22-23.20.37:920][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-23.20.41:859][986]LogRenderer: Reallocating scene render targets to support 1232x544 Format 10 NumSamples 1 (Frame:1).
+[2020.02.22-23.22.13:051][424]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.02.22-23.24.01:557][767]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-23.24.01:820][767]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.02.22-23.24.01:856][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.22-23.24.02:445][767]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient3790E6894150BB81A7AFEFA9CFB96C99.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.22-23.27.38:147][676]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-23.27.38:378][676]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.02.22-23.27.38:412][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.22-23.27.38:985][676]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient67CCBADD4E910C99BC4391AC5EE59016.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.22-23.27.55:607][661]BlueprintLog: New page: Compile AstrumGameMode
+[2020.02.22-23.27.55:834][661]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.02.22-23.27.55:866][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/AstrumGameMode" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/AstrumGameMode.uasset" SILENT=true
+[2020.02.22-23.27.56:108][661]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumGameMode9F3ABB7C4CEEB397DF1996A00E967FC6.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/AstrumGameMode.uasset'
+[2020.02.22-23.28.00:068][896]BlueprintLog: New page: Compile AstrumGameMode
+[2020.02.22-23.28.00:279][896]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.02.22-23.28.00:307][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/AstrumGameMode" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/AstrumGameMode.uasset" SILENT=true
+[2020.02.22-23.28.00:542][896]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumGameModeBEA8C6FE44DE38602CD93C8E6AEBA8BB.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/AstrumGameMode.uasset'
+[2020.02.22-23.29.10:547][ 93]BlueprintLog: New page: Compile AstrumPlayerController
+[2020.02.22-23.29.10:787][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.02.22-23.29.10:817][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumPlayerController" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController.uasset" SILENT=true
+[2020.02.22-23.29.10:949][ 93]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumPlayerControllerF9E7F6A343D28DFDA232BEB29DED5129.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController.uasset'
+[2020.02.22-23.30.13:234][408]BlueprintLog: New page: Compile AstrumPlayerController
+[2020.02.22-23.30.13:301][408]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.02.22-23.30.13:508][408]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.02.22-23.30.13:540][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumPlayerController" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController.uasset" SILENT=true
+[2020.02.22-23.30.13:672][408]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumPlayerController25064C2F451C3926D3DD5C8476DA3839.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController.uasset'
+[2020.02.22-23.30.50:048][584]BlueprintLog: New page: Compile AstrumPlayerController
+[2020.02.22-23.30.50:124][584]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.02.22-23.30.50:347][584]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.02.22-23.30.50:386][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumPlayerController" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController.uasset" SILENT=true
+[2020.02.22-23.30.50:511][584]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumPlayerController7D3D767A474BB63C316BC2A1D12303CB.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController.uasset'
+[2020.02.22-23.31.51:475][833]BlueprintLog: New page: Compile AstrumPlayerController
+[2020.02.22-23.31.51:543][833]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.02.22-23.31.51:750][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.02.22-23.31.51:786][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumPlayerController" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController.uasset" SILENT=true
+[2020.02.22-23.31.51:917][833]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumPlayerController99D639704A0A0FC39370ED8623373C7E.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController.uasset'
+[2020.02.22-23.31.58:491][210]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/Astrum/Mobile_HUD/Enum_Astrum_HUD_Virtual_Text_Alignment.Enum_Astrum_HUD_Virtual_Text_Alignment
+[2020.02.22-23.32.32:775][248]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/Astrum/Mobile_HUD/Enum_Astrum_HUD_Virtual_Button_Events.Enum_Astrum_HUD_Virtual_Button_Events
+[2020.02.22-23.33.01:943][993]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Enum_Astrum_HUD_Virtual_Button_E4B6603C44A6C87BB3D72C682F56E216A.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/Mobile_HUD/Enum_Astrum_HUD_Virtual_Button_Events.uasset'
+[2020.02.22-23.33.15:385][796]BlueprintLog: New page: Compile AstrumPlayerController
+[2020.02.22-23.33.15:466][796]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.02.22-23.33.15:669][796]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.02.22-23.33.15:701][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumPlayerController" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController.uasset" SILENT=true
+[2020.02.22-23.33.15:838][796]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumPlayerControllerB1E7E91F49DDE6918FB3B392EE07B25D.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController.uasset'
+[2020.02.22-23.34.18:161][533]BlueprintLog: New page: Compile AstrumPlayerController
+[2020.02.22-23.34.18:410][533]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.02.22-23.34.18:440][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumPlayerController" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController.uasset" SILENT=true
+[2020.02.22-23.34.18:579][533]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumPlayerControllerE79BC921443B872BF0F112B3EB074788.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerController.uasset'
+[2020.02.22-23.34.41:751][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.22-23.34.53:736][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-23.35.12:566][824]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.22-23.35.31:849][789]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.02.22-23.35.31:861][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/DemoGameMode" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoGameMode.uasset" SILENT=true
+[2020.02.22-23.35.32:035][789]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/DemoGameMode390534E843D3256CDCC91AAC2B73D23B.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoGameMode.uasset'
+[2020.02.22-23.35.32:043][789]LogMetaData: Removing '/Game/Demo/DemoGameMode.DemoGameMode_C' ref from Metadata '/Game/Demo/AstrumGameMode.PackageMetaData'
+[2020.02.22-23.35.32:043][789]LogMetaData: Removing '/Game/Demo/DemoGameMode.DemoGameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Demo/AstrumGameMode.PackageMetaData'
+[2020.02.22-23.35.32:043][789]LogMetaData: Removing '/Game/Demo/DemoGameMode.SKEL_DemoGameMode_C' ref from Metadata '/Game/Demo/AstrumGameMode.PackageMetaData'
+[2020.02.22-23.35.32:063][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/DemoGameMode" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoGameMode.uasset" SILENT=true
+[2020.02.22-23.35.32:311][789]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/DemoGameMode9E45D2E648C54D84A307E3847E6C2966.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoGameMode.uasset'
+[2020.02.22-23.35.32:578][789]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.02.22-23.35.32:620][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.02.22-23.35.32:657][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.02.22-23.36.10:202][ 33]LogSlate: Window 'Reference Viewer' being destroyed
+[2020.02.22-23.45.22:679][178]BlueprintLog: New page: Compile AstrumPlayerGroup
+[2020.02.22-23.45.22:753][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.02.22-23.45.22:790][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumPlayerGroup" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerGroup.uasset" SILENT=true
+[2020.02.22-23.45.23:094][178]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumPlayerGroupDED52F48428479FFD38EEE9BAE1E428D.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumPlayerGroup.uasset'
+[2020.02.22-23.55.01:217][859]BlueprintLog: New page: Compile DemoGameMode
+[2020.02.22-23.55.01:430][859]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.02.22-23.55.01:459][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/DemoGameMode" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoGameMode.uasset" SILENT=true
+[2020.02.22-23.55.01:699][859]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/DemoGameModeE44BB01146783E31C607F98DA7050D6F.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoGameMode.uasset'
+[2020.02.22-23.56.18:681][448]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-23.56.18:914][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.02.22-23.56.18:949][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.22-23.56.19:544][448]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClientA8C7C4094AA0AC5658C360A73FA396A3.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.22-23.57.00:151][864]BlueprintLog: New page: Compile AstrumClient
+[2020.02.22-23.57.00:401][864]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.02.22-23.57.00:439][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.22-23.57.01:014][864]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClientC952905341D6D61089969A9D8B0E2A97.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.22-23.57.51:553][501]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.02.22-23.57.51:553][501]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/DemoLevel' took 0.040
+[2020.02.22-23.57.51:555][501]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Astrum/AstrumClient] ([1] browsable assets)...
+[2020.02.22-23.57.51:555][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Astrum/AstrumClient]
+[2020.02.22-23.57.51:555][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Autosaves/Game/Astrum/AstrumClient_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.02.22-23.57.52:135][501]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient_Auto524C8DF294A88BFBE16DE9CB07E627466.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Autosaves/Game/Astrum/AstrumClient_Auto5.uasset'
+[2020.02.22-23.57.52:139][501]LogFileHelpers: Auto-saving content packages took 0.586
+[2020.02.23-00.05.42:840][798]BlueprintLog: New page: Compile AstrumClient
+[2020.02.23-00.05.43:079][798]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.02.23-00.05.43:113][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.23-00.05.43:695][798]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient84EFF2FF4A0053F947B1EFBF40EE67B2.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.23-00.08.03:439][793]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.02.23-00.08.03:439][793]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/DemoLevel' took 0.043
+[2020.02.23-00.08.03:441][793]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Astrum/AstrumClient] ([1] browsable assets)...
+[2020.02.23-00.08.03:441][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Astrum/AstrumClient]
+[2020.02.23-00.08.03:441][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Autosaves/Game/Astrum/AstrumClient_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.02.23-00.08.04:073][793]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient_Auto6506CB34742DC67D659A16C9008C754BD.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Autosaves/Game/Astrum/AstrumClient_Auto6.uasset'
+[2020.02.23-00.08.04:075][793]LogFileHelpers: Auto-saving content packages took 0.634
+[2020.02.23-00.11.48:511][962]BlueprintLog: New page: Compile AstrumClient
+[2020.02.23-00.11.48:533][962]LogBlueprint: Error: [Compiler AstrumClient] This blueprint (self) is not a AstrumPlayerController_C, therefore ' Target ' must have a connection.
+[2020.02.23-00.11.48:537][962]LogBlueprint: Error: [Compiler DemoGameMode] COMPILER ERROR: failed building connection with 'Convert Enum_Astrum_HUD_Virtual_Button_Events Enum to String' at  Append
+[2020.02.23-00.11.48:545][962]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.02.23-00.11.48:776][962]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.02.23-00.11.53:314][228]BlueprintLog: New page: Compile AstrumClient
+[2020.02.23-00.11.53:337][228]LogBlueprint: Error: [Compiler AstrumClient] Could not find a pin for the parameter Event of Virtual Button Update__DelegateSignature on  Call Virtual Button Update
+[2020.02.23-00.11.53:338][228]LogBlueprint: Error: [Compiler AstrumClient] Pin  Events  named Events doesn't match any parameters of function Virtual Button Update__DelegateSignature
+[2020.02.23-00.11.53:338][228]LogBlueprint: Error: [Compiler AstrumClient] Could not find a pin for the parameter Event of Virtual Button Update__DelegateSignature on  Call Virtual Button Update
+[2020.02.23-00.11.53:338][228]LogBlueprint: Error: [Compiler AstrumClient] Pin  Events  named Events doesn't match any parameters of function Virtual Button Update__DelegateSignature
+[2020.02.23-00.11.53:383][228]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.02.23-00.12.03:148][800]BlueprintLog: New page: Compile AstrumClient
+[2020.02.23-00.12.03:173][800]LogBlueprint: Error: [Compiler AstrumClient] Could not find a pin for the parameter Event of Virtual Button Update__DelegateSignature on  Call Virtual Button Update
+[2020.02.23-00.12.03:173][800]LogBlueprint: Error: [Compiler AstrumClient] Pin  Events  named Events doesn't match any parameters of function Virtual Button Update__DelegateSignature
+[2020.02.23-00.12.03:222][800]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.02.23-00.12.10:122][207]BlueprintLog: New page: Compile AstrumClient
+[2020.02.23-00.12.10:151][207]LogBlueprint: Error: [Compiler AstrumClient] The current value of the ' Event ' pin is invalid: '' is not a valid enumerant of '<Enum_Astrum_HUD_Virtual_Button_Events>'
+[2020.02.23-00.12.10:200][207]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.02.23-00.12.12:329][330]BlueprintLog: New page: Compile AstrumClient
+[2020.02.23-00.12.12:400][330]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.02.23-00.12.12:434][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.23-00.12.13:085][330]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient1CBE5E21439FDA45EAA61892ACE3A044.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.23-00.12.20:451][768]BlueprintLog: New page: Compile AstrumClient
+[2020.02.23-00.12.20:521][768]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.02.23-00.18.04:409][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.02.23-00.18.04:410][ 75]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/DemoLevel' took 0.048
+[2020.02.23-00.18.04:411][ 75]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Astrum/AstrumClient] ([1] browsable assets)...
+[2020.02.23-00.18.04:411][ 75]OBJ SavePackage: Finished generating thumbnails for package [/Game/Astrum/AstrumClient]
+[2020.02.23-00.18.04:411][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Autosaves/Game/Astrum/AstrumClient_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2020.02.23-00.18.05:035][ 75]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient_Auto7224DD3474C4E44FABA89079F8E0F9678.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Autosaves/Game/Astrum/AstrumClient_Auto7.uasset'
+[2020.02.23-00.18.05:037][ 75]LogFileHelpers: Auto-saving content packages took 0.626
+[2020.02.23-00.50.59:151][355]BlueprintLog: New page: Compile AstrumClient
+[2020.02.23-00.50.59:539][355]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.02.23-00.50.59:577][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.23-00.51.00:216][355]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClientDD2972CF432A479E1BF3A5B4C333A17C.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.23-00.51.49:750][321]BlueprintLog: New page: Compile AstrumClient
+[2020.02.23-00.51.49:830][321]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.02.23-00.51.49:874][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.23-00.51.50:483][321]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient9D88912B427AED8DB463C3A51516ACDF.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.23-00.58.51:618][538]BlueprintLog: New page: Compile DemoGameMode
+[2020.02.23-00.58.51:622][538]LogBlueprint: Error: [Compiler DemoGameMode] COMPILER ERROR: failed building connection with 'Convert Enum_Astrum_HUD_Virtual_Button_Events Enum to String' at  Append
+[2020.02.23-00.58.51:851][538]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.02.23-00.59.03:854][253]BlueprintLog: New page: Compile DemoGameMode
+[2020.02.23-00.59.04:084][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.02.23-00.59.04:112][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/DemoGameMode" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoGameMode.uasset" SILENT=true
+[2020.02.23-00.59.04:356][253]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/DemoGameModeA294904B488700F11D2B289AD8460EC6.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoGameMode.uasset'
+[2020.02.23-01.00.15:777][509]BlueprintLog: New page: Compile AstrumClient
+[2020.02.23-01.00.16:049][509]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.02.23-01.00.16:078][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.23-01.00.16:695][509]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient1C475965470741746A7896B886C584EC.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.23-01.03.40:808][703]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.02.23-01.03.40:808][703]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/DemoLevel' took 0.049
+[2020.02.23-01.03.40:810][703]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/DemoGameMode] ([1] browsable assets)...
+[2020.02.23-01.03.40:810][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/DemoGameMode]
+[2020.02.23-01.03.40:810][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/DemoGameMode" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Autosaves/Game/Demo/DemoGameMode_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2020.02.23-01.03.41:053][703]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/DemoGameMode_Auto8A0371AF94296D3B9E41FAB9F94D6E824.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Autosaves/Game/Demo/DemoGameMode_Auto8.uasset'
+[2020.02.23-01.03.41:056][703]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Astrum/AstrumClient] ([1] browsable assets)...
+[2020.02.23-01.03.41:056][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/Astrum/AstrumClient]
+[2020.02.23-01.03.41:056][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Autosaves/Game/Astrum/AstrumClient_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2020.02.23-01.03.41:674][703]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient_Auto8518BC4A24621CB86E4F74DA33BFB9444.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/Autosaves/Game/Astrum/AstrumClient_Auto8.uasset'
+[2020.02.23-01.03.41:675][703]LogFileHelpers: Auto-saving content packages took 0.866
+[2020.02.23-01.04.19:351][963]BlueprintLog: New page: Compile AstrumClient
+[2020.02.23-01.04.19:379][963]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.02.23-01.04.19:583][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.02.23-01.04.19:620][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.23-01.04.20:231][963]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient6869D9F347982C8F90DFD6BC4778BDF8.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.23-01.04.20:242][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/DemoGameMode" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoGameMode.uasset" SILENT=true
+[2020.02.23-01.04.20:497][963]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/DemoGameMode41AFD7D64EB0C1A75D865AA4EB10F8BF.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoGameMode.uasset'
+[2020.02.23-01.04.50:866][779]LogEditorTransaction: Undo Move Nodes
+[2020.02.23-01.05.44:118][965]BlueprintLog: New page: Compile AstrumClient
+[2020.02.23-01.05.44:353][965]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.02.23-01.05.44:390][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Astrum/AstrumClient" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset" SILENT=true
+[2020.02.23-01.05.45:003][965]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/AstrumClient398195CB4ED836BEADD55EBEEEEBED1D.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Astrum/AstrumClient.uasset'
+[2020.02.23-01.05.48:825][190]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.23-01.05.48:850][190]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/Demo/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2020.02.23-01.05.48:850][190]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.23-01.05.48:851][190]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2020.02.23-01.05.48:897][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.02.23-01.05.48:897][190]LogPlayLevel: PlayLevel: Blueprint regeneration took 47 ms (1 blueprints)
+[2020.02.23-01.05.48:897][190]PIE: New page: PIE session: DemoLevel (23 Feb 2020 01:05:48)
+[2020.02.23-01.05.48:898][190]LogPlayLevel: Creating play world package: /Game/Demo/UEDPIE_0_DemoLevel
+[2020.02.23-01.05.48:900][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002535s)
+[2020.02.23-01.05.48:901][190]LogAIModule: Creating AISystem for world DemoLevel
+[2020.02.23-01.05.48:901][190]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2020.02.23-01.05.48:901][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/DemoLevel.DemoLevel to /Game/Demo/UEDPIE_0_DemoLevel.DemoLevel (0.003637s)
+[2020.02.23-01.05.48:940][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.02.23-01.05.49:025][190]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.23-01.05.49:037][190]LogInit: FAudioDevice initialized.
+[2020.02.23-01.05.49:046][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-01.05.49:047][190]LogLinker: Warning: Failed to load '/Game/Demo/AstrumGameMode': Can't find file.
+[2020.02.23-01.05.49:047][190]LogLinker: Warning: Failed to load '/Game/Demo/AstrumGameMode': Can't find file.
+[2020.02.23-01.05.49:047][190]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Demo/AstrumGameMode.AstrumGameMode_C'
+[2020.02.23-01.05.49:047][190]LogLoad: Game class is 'GameModeBase'
+[2020.02.23-01.05.49:048][190]LogWorld: Bringing World /Game/Demo/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 60) at 2020.02.23-01.05.49
+[2020.02.23-01.05.49:048][190]LogWorld: Bringing up level for play took: 0.000767
+[2020.02.23-01.05.49:049][190]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.02.23-01.05.49:053][190]PIE: Play in editor start time for /Game/Demo/UEDPIE_0_DemoLevel -0.461
+[2020.02.23-01.05.49:054][190]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/Demo/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2020.02.23-01.05.49:095][191]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.02.23-01.05.52:079][367]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/Demo/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2020.02.23-01.05.52:080][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-01.05.52:080][367]LogWorld: BeginTearingDown for /Game/Demo/UEDPIE_0_DemoLevel
+[2020.02.23-01.05.52:094][367]LogSlate: Window 'Astrum Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.23-01.05.52:100][367]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-01.05.52:105][367]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-01.05.52:105][367]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/Demo/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2020.02.23-01.05.52:150][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.02.23-01.05.52:189][369]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.23-01.06.26:813][436]BlueprintLog: New page: Compile DemoGameMode
+[2020.02.23-01.06.27:039][436]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.02.23-01.06.27:073][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/DemoGameMode" FILE="E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoGameMode.uasset" SILENT=true
+[2020.02.23-01.06.27:324][436]LogSavePackage: Moving 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Saved/DemoGameMode16DAA0EF403DFCE7799125B78179379B.tmp' to 'E:/Final Year Backup/Games Prototyping 3/AstrumUE4Client/Content/Demo/DemoGameMode.uasset'
+[2020.02.23-01.06.28:319][492]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.23-01.06.28:349][492]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/Demo/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2020.02.23-01.06.28:349][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-01.06.28:349][492]PIE: New page: PIE session: DemoLevel (23 Feb 2020 01:06:28)
+[2020.02.23-01.06.28:349][492]LogPlayLevel: Creating play world package: /Game/Demo/UEDPIE_0_DemoLevel
+[2020.02.23-01.06.28:352][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002710s)
+[2020.02.23-01.06.28:353][492]LogAIModule: Creating AISystem for world DemoLevel
+[2020.02.23-01.06.28:354][492]LogPlayLevel: PIE: World Init took: (0.001448s)
+[2020.02.23-01.06.28:354][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/DemoLevel.DemoLevel to /Game/Demo/UEDPIE_0_DemoLevel.DemoLevel (0.004326s)
+[2020.02.23-01.06.28:399][492]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.02.23-01.06.28:488][492]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.23-01.06.28:500][492]LogInit: FAudioDevice initialized.
+[2020.02.23-01.06.28:511][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-01.06.28:511][492]LogLoad: Game class is 'GameModeBase'
+[2020.02.23-01.06.28:513][492]LogWorld: Bringing World /Game/Demo/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 60) at 2020.02.23-01.06.28
+[2020.02.23-01.06.28:513][492]LogWorld: Bringing up level for play took: 0.000926
+[2020.02.23-01.06.28:513][492]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.02.23-01.06.28:519][492]PIE: Play in editor start time for /Game/Demo/UEDPIE_0_DemoLevel 1.005
+[2020.02.23-01.06.28:519][492]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/Demo/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2020.02.23-01.06.31:376][659]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/Demo/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2020.02.23-01.06.31:376][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-01.06.31:376][659]LogWorld: BeginTearingDown for /Game/Demo/UEDPIE_0_DemoLevel
+[2020.02.23-01.06.31:391][659]LogSlate: Window 'Astrum Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.23-01.06.31:400][659]LogWorld: UWorld::CleanupWorld for DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-01.06.31:404][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-01.06.31:404][659]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/Demo/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/Demo/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2020.02.23-01.06.31:460][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.02.23-01.06.31:477][660]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.02.23-01.07.25:988][118]LogEditorTransaction: Undo Add Node
+[2020.02.23-01.07.25:989][118]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.23-01.07.26:405][118]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.416 s
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: 
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/EdGraph/EdGraphPin.cpp] [Line: 475]
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'execute' on node 'Construct Object from Class' not reciprocally linked with pin 'then' on node 'None (None)'
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: Stack: 
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9959c0225 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff99481052b UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff994853e22 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff99f26d4ab UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff99f2b0a93 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff99f2b1075 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff99f26dc17 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a5c366d6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a5c24d01 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a5bfbb3c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a5c3db5c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a5bdbaaf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a04e5d78 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a989b62a UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a98d191e UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a63afe1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a639f481 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a9863076 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a98d3413 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a98c87fe UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9adc84a7c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9adc726df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9adc87340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9adc6edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9ed6d5b6d USER32.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9ed6d5562 USER32.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9adc888e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff71cbf6980 UE4Editor.exe!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff71cc0a91c UE4Editor.exe!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff71cc0a9fa UE4Editor.exe!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff71cc1b92c UE4Editor.exe!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff71cc1e60e UE4Editor.exe!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9ec6c7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: [Callstack] 0x00007ff9ee24ced1 ntdll.dll!UnknownFunction []
+[2020.02.23-01.07.26:405][118]LogOutputDevice: Error: 
+[2020.02.23-01.07.26:419][118]LogStats:                SubmitErrorReport -  0.000 s
+[2020.02.23-01.07.27:063][118]LogStats:                    SendNewReport -  0.644 s
+[2020.02.23-01.07.27:063][118]LogStats:             FDebug::EnsureFailed -  1.074 s
+[2020.02.23-01.07.27:063][118]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.23-01.07.27:064][118]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2020.02.23-01.07.27:064][118]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.23-01.07.27:064][118]LogOutputDevice: Error: 
+[2020.02.23-01.07.27:064][118]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/EdGraph/EdGraphPin.cpp] [Line: 475]
+[2020.02.23-01.07.27:064][118]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'Player' on node 'New HUD Layout' not reciprocally linked with pin 'Player Controller' on node 'None (None)'
+[2020.02.23-01.07.27:064][118]LogOutputDevice: Error: Stack: 
+[2020.02.23-01.07.27:064][118]LogOutputDevice: Error: [Callstack] 0x00007ff9959c0225 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.23-01.07.27:064][118]LogOutputDevice: Error: [Callstack] 0x00007ff99481052b UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.23-01.07.27:064][118]LogOutputDevice: Error: [Callstack] 0x00007ff994853e22 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.23-01.07.27:064][118]LogOutputDevice: Error: [Callstack] 0x00007ff99f26d4ab UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.02.23-01.07.27:064][118]LogOutputDevice: Error: [Callstack] 0x00007ff99f2b0a93 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.02.23-01.07.27:064][118]LogOutputDevice: Error: [Callstack] 0x00007ff99f2b1075 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.02.23-01.07.27:064][118]LogOutputDevice: Error: [Callstack] 0x00007ff99f26dc17 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.02.23-01.07.27:064][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a5c366d6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-01.07.27:064][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a5c24d01 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-01.07.27:064][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a5bfbb3c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-01.07.27:064][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a5c3db5c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-01.07.27:064][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a5bdbaaf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-01.07.27:064][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a04e5d78 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a989b62a UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a98d191e UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a63afe1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a639f481 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a9863076 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a98d3413 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff9a98c87fe UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff9adc84a7c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff9adc726df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff9adc87340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff9adc6edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff9ed6d5b6d USER32.dll!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff9ed6d5562 USER32.dll!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff9adc888e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff71cbf6980 UE4Editor.exe!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff71cc0a91c UE4Editor.exe!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff71cc0a9fa UE4Editor.exe!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff71cc1b92c UE4Editor.exe!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff71cc1e60e UE4Editor.exe!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff9ec6c7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: [Callstack] 0x00007ff9ee24ced1 ntdll.dll!UnknownFunction []
+[2020.02.23-01.07.27:065][118]LogOutputDevice: Error: 
+[2020.02.23-01.07.27:072][118]LogStats:                SubmitErrorReport -  0.000 s
